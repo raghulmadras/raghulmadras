@@ -11,7 +11,7 @@ A freshman CS student at UC Santa Cruz, building cool things with Python, Java, 
 
 - 🔭 Currently building a frontend for **UnitedWay** with [UCSC Blueprint](https://www.ucscblueprint.org/)
 - 🌱 Freshman at **UC Santa Cruz**
-- 💬 Ask me about Python, Discord bots, or RAG pipelines
+- 💬 Ask me about Python, Discord bots, anything really
 
 ## Tools
 
